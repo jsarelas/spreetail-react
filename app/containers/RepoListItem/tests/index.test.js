@@ -25,10 +25,10 @@ describe('<RepoListItem />', () => {
       owner: {
         login: 'mxstbr',
       },
-      html_url: 'https://github.com/react-boilerplate/react-boilerplate',
-      name: 'react-boilerplate',
+      html_url: 'https://github.com/spreetail-react/spreetail-react',
+      name: 'spreetail-react',
       open_issues_count: 20,
-      full_name: 'react-boilerplate/react-boilerplate',
+      full_name: 'spreetail-react/spreetail-react',
     };
   });
 

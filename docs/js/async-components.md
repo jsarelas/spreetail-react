@@ -1,7 +1,7 @@
 # Loading components with loadable-components
 
 [`loadable-components`](https://github.com/smooth-code/loadable-components) is integrated into
-`react-boilerplate` because of its rich functionality and good design (it does not
+`spreetail-react` because of its rich functionality and good design (it does not
 conflate routes with asynchronous components).
 
 To load a component asynchronously, create a `Loadable` file by hand or via component/container generators

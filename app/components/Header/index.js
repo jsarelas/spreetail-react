@@ -14,7 +14,7 @@ class Header extends React.Component {
     return (
       <div>
         <A href="https://twitter.com/mxstbr">
-          <Img src={Banner} alt="react-boilerplate - Logo" />
+          <Img src={Banner} alt="spreetail-react - Logo" />
         </A>
         <NavBar>
           <HeaderLink to="/">

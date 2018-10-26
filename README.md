@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
+<img src="https://raw.githubusercontent.com/spreetail-react/spreetail-react-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
 <br />
 
@@ -9,36 +9,36 @@
 
 <div align="center">
   <!-- Dependency Status -->
-  <a href="https://david-dm.org/react-boilerplate/react-boilerplate">
-    <img src="https://david-dm.org/react-boilerplate/react-boilerplate.svg" alt="Dependency Status" />
+  <a href="https://david-dm.org/spreetail-react/spreetail-react">
+    <img src="https://david-dm.org/spreetail-react/spreetail-react.svg" alt="Dependency Status" />
   </a>
   <!-- devDependency Status -->
-  <a href="https://david-dm.org/react-boilerplate/react-boilerplate#info=devDependencies">
-    <img src="https://david-dm.org/react-boilerplate/react-boilerplate/dev-status.svg" alt="devDependency Status" />
+  <a href="https://david-dm.org/spreetail-react/spreetail-react#info=devDependencies">
+    <img src="https://david-dm.org/spreetail-react/spreetail-react/dev-status.svg" alt="devDependency Status" />
   </a>
   <!-- Build Status -->
-  <a href="https://travis-ci.org/react-boilerplate/react-boilerplate">
-    <img src="https://travis-ci.org/react-boilerplate/react-boilerplate.svg" alt="Build Status" />
+  <a href="https://travis-ci.org/spreetail-react/spreetail-react">
+    <img src="https://travis-ci.org/spreetail-react/spreetail-react.svg" alt="Build Status" />
   </a>
   <!-- Test Coverage -->
-  <a href="https://coveralls.io/r/react-boilerplate/react-boilerplate">
-    <img src="https://coveralls.io/repos/github/react-boilerplate/react-boilerplate/badge.svg" alt="Test Coverage" />
+  <a href="https://coveralls.io/r/spreetail-react/spreetail-react">
+    <img src="https://coveralls.io/repos/github/spreetail-react/spreetail-react/badge.svg" alt="Test Coverage" />
   </a>
 </div>
 <div align="center">
     <!-- Backers -->
   <a href="#backers">
-    <img src="https://opencollective.com/react-boilerplate/backers/badge.svg" alt="Backers" />
+    <img src="https://opencollective.com/spreetail-react/backers/badge.svg" alt="Backers" />
   </a>
       <!-- Sponsors -->
   <a href="#sponsors">
-    <img src="https://opencollective.com/react-boilerplate/sponsors/badge.svg" alt="Sponsors" />
+    <img src="https://opencollective.com/spreetail-react/sponsors/badge.svg" alt="Sponsors" />
   </a>
-  <a href="http://thinkmill.com.au/?utm_source=github&utm_medium=badge&utm_campaign=react-boilerplate">
+  <a href="http://thinkmill.com.au/?utm_source=github&utm_medium=badge&utm_campaign=spreetail-react">
     <img alt="Supported by Thinkmill" src="https://thinkmill.github.io/badge/heart.svg" />
   </a>
   <!-- Gitter -->
-  <a href="https://gitter.im/mxstbr/react-boilerplate">
+  <a href="https://gitter.im/mxstbr/spreetail-react">
     <img src="https://camo.githubusercontent.com/54dc79dc7da6b76b17bc8013342da9b4266d993c/68747470733a2f2f6261646765732e6769747465722e696d2f6d78737462722f72656163742d626f696c6572706c6174652e737667" alt="Gitter Chat" />
   </a>
 </div>
@@ -46,7 +46,7 @@
 <br />
 
 <div align="center">
-  <sub>Created by <a href="https://twitter.com/mxstbr">Max Stoiber</a> and maintained with ❤️ by an amazing <a href="https://github.com/orgs/react-boilerplate/teams/core">team of developers</a>.</sub>
+  <sub>Created by <a href="https://twitter.com/mxstbr">Max Stoiber</a> and maintained with ❤️ by an amazing <a href="https://github.com/orgs/spreetail-react/teams/core">team of developers</a>.</sub>
 </div>
 
 ## Features
@@ -101,7 +101,7 @@ There’s also a <a href="https://vimeo.com/168648012">fantastic video</a> on ho
 ## Quick start
 
 1.  Make sure that you have Node.js v8.10 and npm v5 or above installed.
-2.  Clone this repo using `git clone --depth=1 https://github.com/react-boilerplate/react-boilerplate.git <YOUR_PROJECT_NAME>`
+2.  Clone this repo using `git clone --depth=1 https://github.com/spreetail-react/spreetail-react.git <YOUR_PROJECT_NAME>`
 3.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
 4.  Run `npm run setup` in order to install dependencies and clean the git repo.<br />
     _At this point you can run `npm start` to see the example app at `http://localhost:3000`._
@@ -113,7 +113,7 @@ Now you're ready to rumble!
 
 ## Documentation
 
-- [**The Hitchhikers Guide to `react-boilerplate`**](docs/general/introduction.md): An introduction for newcomers to this boilerplate.
+- [**The Hitchhikers Guide to `spreetail-react`**](docs/general/introduction.md): An introduction for newcomers to this boilerplate.
 - [Overview](docs/general): A short overview of the included tools
 - [**Commands**](docs/general/commands.md): Getting the most out of this boilerplate
 - [Testing](docs/testing): How to work with the built-in test harness
@@ -124,31 +124,31 @@ Now you're ready to rumble!
 
 ## Supporters
 
-This project would not be possible without the support by these amazing folks. [**Become a sponsor**](https://opencollective.com/react-boilerplate) to get your company in front of thousands of engaged react developers and help us out!
+This project would not be possible without the support by these amazing folks. [**Become a sponsor**](https://opencollective.com/spreetail-react) to get your company in front of thousands of engaged react developers and help us out!
 
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/0/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/1/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/2/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/3/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/4/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/5/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/6/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/7/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/8/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/bronze-sponsor/9/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/bronze-sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/0/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/1/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/2/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/3/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/4/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/5/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/6/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/7/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/8/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/bronze-sponsor/9/website" target="_blank"><img src="https://opencollective.com/spreetail-react/bronze-sponsor/9/avatar.svg"></a>
 
 ---
 
-<a href="https://opencollective.com/react-boilerplate/backer/0/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/backer/1/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/backer/2/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/backer/3/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/backer/4/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/backer/5/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/backer/6/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/backer/7/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/backer/8/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/react-boilerplate/backer/9/website" target="_blank"><img src="https://opencollective.com/react-boilerplate/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/0/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/1/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/2/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/3/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/4/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/5/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/6/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/7/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/8/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/spreetail-react/backer/9/website" target="_blank"><img src="https://opencollective.com/spreetail-react/backer/9/avatar.svg"></a>
 
 ## License
 

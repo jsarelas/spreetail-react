@@ -6,7 +6,7 @@
 npm run setup
 ```
 
-Initializes a new project with this boilerplate. Deletes the `react-boilerplate`
+Initializes a new project with this boilerplate. Deletes the `spreetail-react`
 git history, installs the dependencies and initializes a new repository.
 
 > Note: This command is self-destructive, once you've run it the init script is
