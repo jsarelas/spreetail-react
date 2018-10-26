@@ -74,7 +74,7 @@ module.exports = options => ({
               limit: 10 * 1024,
             },
           },
-          {
+          /*  {
             loader: 'image-webpack-loader',
             options: {
               mozjpeg: {
@@ -95,7 +95,7 @@ module.exports = options => ({
                 speed: 4,
               },
             },
-          },
+          }, */
         ],
       },
       {
