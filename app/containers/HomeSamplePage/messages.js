@@ -1,11 +1,11 @@
 /*
- * HomePage Messages
+ * HomeSamplePage Messages
  *
- * This contains all the text for the HomePage component.
+ * This contains all the text for the HomeSamplePage component.
  */
 import { defineMessages } from 'react-intl';
 
-export const scope = 'boilerplate.containers.HomePage';
+export const scope = 'containers.HomeSamplePage';
 
 export default defineMessages({
   startProjectHeader: {

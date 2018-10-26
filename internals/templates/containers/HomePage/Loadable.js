@@ -1,5 +1,5 @@
 /**
- * Asynchronously loads the component for HomePage
+ * Asynchronously loads the component for HomeSamplePage
  */
 import loadable from 'loadable-components';
 

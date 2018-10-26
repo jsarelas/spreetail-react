@@ -2,12 +2,12 @@ import React from 'react';
 import { FormattedMessage } from 'react-intl';
 import { shallow } from 'enzyme';
 
-import HomePage from '../index';
+import HomeSamplePage from '../index';
 import messages from '../messages';
 
-describe('<HomePage />', () => {
+describe('<HomeSamplePage />', () => {
   it('should render the page message', () => {
-    const renderedComponent = shallow(<HomePage />);
+    const renderedComponent = shallow(<HomeSamplePage />);
     expect(
       renderedComponent.contains(<FormattedMessage {...messages.header} />),
     ).toEqual(true);

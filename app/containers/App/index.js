@@ -12,6 +12,9 @@ import styled from 'styled-components';
 import { Switch, Route } from 'react-router-dom';
 
 import HomePage from 'containers/HomePage/Loadable';
+import ProductPage from 'containers/ProductPage/Loadable';
+import CategoryPage from 'containers/CategoryPage/Loadable';
+import HomeSamplePage from 'containers/HomeSamplePage/Loadable';
 import FeaturePage from 'containers/FeaturePage/Loadable';
 import NotFoundPage from 'containers/NotFoundPage/Loadable';
 import Header from 'components/Header';
@@ -31,16 +34,17 @@ const AppWrapper = styled.div`
 export default function App() {
   return (
     <AppWrapper>
-      <Helmet
-        titleTemplate="%s - React.js Boilerplate"
-        defaultTitle="React.js Boilerplate"
-      >
-        <meta name="description" content="A React.js Boilerplate application" />
+      <Helmet titleTemplate="%s - Spreetail" defaultTitle="Spreetail">
+        <meta name="description" content="Spreetail application" />
       </Helmet>
       <Header />
       <Switch>
         <Route exact path="/" component={HomePage} />
+        <Route path="/category" component={CategoryPage} />
+        <Route path="/product" component={ProductPage} />
         <Route path="/features" component={FeaturePage} />
+        <Route path="/homesample" component={HomeSamplePage} />
+
         <Route path="" component={NotFoundPage} />
       </Switch>
       <Footer />

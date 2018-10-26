@@ -1,20 +1,16 @@
-/**
- * Test the HomePage
- */
-
 import React from 'react';
 import { shallow, mount } from 'enzyme';
 import { IntlProvider } from 'react-intl';
 
 import ReposList from 'components/ReposList';
-import { HomePage, mapDispatchToProps } from '../index';
+import { HomeSamplePage, mapDispatchToProps } from '../index';
 import { changeUsername } from '../actions';
 import { loadRepos } from '../../App/actions';
 
-describe('<HomePage />', () => {
+describe('<HomeSamplePage />', () => {
   it('should render the repos list', () => {
     const renderedComponent = shallow(
-      <HomePage loading error={false} repos={[]} />,
+      <HomeSamplePage loading error={false} repos={[]} />,
     );
     expect(
       renderedComponent.contains(
@@ -27,7 +23,7 @@ describe('<HomePage />', () => {
     const submitSpy = jest.fn();
     mount(
       <IntlProvider locale="en">
-        <HomePage
+        <HomeSamplePage
           username="Not Empty"
           onChangeUsername={() => {}}
           onSubmitForm={submitSpy}
@@ -41,7 +37,7 @@ describe('<HomePage />', () => {
     const submitSpy = jest.fn();
     mount(
       <IntlProvider locale="en">
-        <HomePage onChangeUsername={() => {}} onSubmitForm={submitSpy} />
+        <HomeSamplePage onChangeUsername={() => {}} onSubmitForm={submitSpy} />
       </IntlProvider>,
     );
     expect(submitSpy).not.toHaveBeenCalled();
@@ -51,7 +47,7 @@ describe('<HomePage />', () => {
     const submitSpy = jest.fn();
     mount(
       <IntlProvider locale="en">
-        <HomePage
+        <HomeSamplePage
           username=""
           onChangeUsername={() => {}}
           onSubmitForm={submitSpy}

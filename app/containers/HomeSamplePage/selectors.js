@@ -1,5 +1,5 @@
 /**
- * Homepage selectors
+ * HomeSamplePage selectors
  */
 
 import { createSelector } from 'reselect';
